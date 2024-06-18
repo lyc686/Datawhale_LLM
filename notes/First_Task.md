@@ -2,7 +2,7 @@
 
 ***
 
-<img src="../picts/image-20240618095023600.png" alt="image-20240618100050682"  />
+<img src="../picts/image_20240618095023600.png" alt="image_20240618100050682"  />
 
 ***
 
