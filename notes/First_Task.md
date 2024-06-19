@@ -6,9 +6,7 @@
 
 ***
 
-## 第一章 大模型简介
-
-### 学习参考
+## 学习参考
 
 项目教程：[中文教程](https://datawhalechina.github.io/llm-universe/)
 
@@ -27,6 +25,8 @@
 
 
 <img src="../picts/image-20240618100050682.png" alt="image-20240618100050682" style="zoom:80%;margin-left:0px;" />
+
+## 第一章 大模型简介
 
 ### 项目简介
 
