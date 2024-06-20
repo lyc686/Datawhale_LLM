@@ -78,7 +78,7 @@
 
 
 
-自此之后，基于深度学习的思想逐渐引入了语言模型中，随着[《attention is all you need》](https://arxiv.org/abs/1706.03762)的出现，研究者们发现`Transformer`这种考虑整句中每一个词之间的相互关系可能对于最后的预测效果是非常好的。<font color="blue">注意：对Transformer的细节讲解可以参考我之前的博客——[Transformer_李宏毅_2021]([2021李宏毅机器学习课程-YouTube第四部分、Transformer_李宏毅 transformer 课件-CSDN博客](https://blog.csdn.net/weixin_52836217/article/details/128494330?spm=1001.2014.3001.5501))</font>。此外，研究者还发现随着语言模型规模（参数量/更多数据）的不断扩大，模型展现出了一种非常惊人的能力**涌现能力**，因此引发了人们对于LLM大语言模型一发不可收拾的探索。
+自此之后，基于深度学习的思想逐渐引入了语言模型中，随着[《attention is all you need》](https://arxiv.org/abs/1706.03762)的出现，研究者们发现`Transformer`这种考虑整句中每一个词之间的相互关系可能对于最后的预测效果是非常好的。<font color="blue">注意：对Transformer的细节讲解可以参考我之前的博客</font>——[Transformer_李宏毅_2021](https://blog.csdn.net/weixin_52836217/article/details/128494330?spm=1001.2014.3001.5501)。此外，研究者还发现随着语言模型规模（参数量/更多数据）的不断扩大，模型展现出了一种非常惊人的能力**涌现能力**，因此引发了人们对于LLM大语言模型一发不可收拾的探索。
 
 ### 1.1.3 LLM大模型的发展
 
