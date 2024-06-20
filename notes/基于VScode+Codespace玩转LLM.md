@@ -6,9 +6,7 @@
 
 ***
 
-## 开发环境配置
-
-### 学习参考
+## 学习参考
 
 项目教程：[中文教程](https://datawhalechina.github.io/llm-universe/)
 
@@ -27,6 +25,8 @@
 
 
 <img src="../picts/image-20240618100050682.png" alt="image-20240618100050682" style="zoom:80%;margin-left:0px;" />
+
+## 开发环境配置
 
 ### 项目简介
 
