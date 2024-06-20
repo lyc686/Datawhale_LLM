@@ -90,7 +90,7 @@ json
 
 ## 2.2 使用LLM API
 
-在了解了一些相关的基础概念之后我们来实际使用一下LLM API，具体的实验环境可以参考这里：[基于VScode+Codespace玩转LLM]([Datawhale_LLM/notes/基于VScode+Codespace玩转LLM.md at main · lyc686/Datawhale_LLM (github.com)](https://github.com/lyc686/Datawhale_LLM/blob/main/notes/基于VScode%2BCodespace玩转LLM.md))。
+在了解了一些相关的基础概念之后我们来实际使用一下LLM API，具体的实验环境可以参考这里：[基于VScode+Codespace玩转LLM](https://github.com/lyc686/Datawhale_LLM/blob/main/notes/基于VScode%2BCodespace玩转LLM.md)。
 
 <font color="red">本次课程的全部代码都是基于**智谱GLM-4**进行实验的</font>（因为新用户送了18元劵）。
 
