@@ -291,7 +291,7 @@ pdf_page.page_content = re.sub(pattern, lambda match: match.group(0).replace('\n
 print(pdf_page.page_content)
 ```
 
-<img src="../picts/image-20240623145444254.png)
+<img src="../picts/image-20240623145444254.png" />
 
 进一步的，其中的一些空格和**·**还需要删去。
 
